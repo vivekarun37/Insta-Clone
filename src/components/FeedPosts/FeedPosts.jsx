@@ -1,5 +1,5 @@
 import { Box, Container, Flex, Skeleton, SkeletonCircle, Text, VStack } from "@chakra-ui/react";
-import FeedPost from "./FeedPost";
+import FeedPost from "./Feedpost";
 import useGetFeedPosts from "../../Hooks/useGetFeedPosts";
 
 const FeedPosts = () => {
