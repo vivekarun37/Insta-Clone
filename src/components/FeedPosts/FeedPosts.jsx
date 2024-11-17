@@ -37,5 +37,3 @@ const FeedPosts = () => {
 };
 
 export default FeedPosts;
-
-export default FeedPosts;
